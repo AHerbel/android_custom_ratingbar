@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Custom Ratingbar</string>
+
+    <!-- Accessibility announcement to confirm the feedback rating made for a session by the user. -->
+    <string name="feedback_rating_confirmation">Your rating: %1$d out of %2$d stars"</string>
+
+    <!-- Accessibility announcement for an item in the custom feedback rating view. For example, "one star".  -->
+    <string name="feedback_rating_value">%1$d star</string>
+
+</resources>
